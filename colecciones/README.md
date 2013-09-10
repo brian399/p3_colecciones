@@ -1,0 +1,4 @@
+colecciones
+===========
+
+Uso de colecciones
